@@ -1,20 +1,16 @@
 
 
 
-
-
-
-
-
-
-
-- add wheel size input
-- calculate RPM to KMH
+FEATURES for later
 
 - calculate KMH to RPM
-
-FEATURES for later
 - enable/disable gears
 - display function
 - add more gears
 - add multi-units support
+- add typescript
+
+
+
+far future
+- react native app, gps speed to rpm calculator, GUI speedometer
